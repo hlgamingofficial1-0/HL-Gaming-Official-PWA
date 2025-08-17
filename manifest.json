@@ -1,0 +1,115 @@
+{
+  "id": "https://www.hlgamingofficial.com",
+  "name": "HL GAMING OFFICIAL",
+  "short_name": "HL GAMING",
+  "description": "HL GAMING is the ultimate platform for Gaming Tips, Trending Games, Upcoming Gaming News, Game Reviews, and a hub for downloading games. Explore everything gaming in one place.",
+  "start_url": "https://www.hlgamingofficial.com",
+  "scope": "https://www.hlgamingofficial.com",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#09a979",
+  "theme_color": "#0F9D58",
+  "dir": "ltr",
+  "lang": "en",
+  "categories": ["entertainment", "games", "news", "reviews", "technology"],
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkNGM6fYza2r1mJ6w1hxr2Zht5D2pDodRBjSK7VSVSJT5m4B6XxBch82Nl31S_JHl3B9EzvsKvPPWxMIwrrH89wfVpRaTN5DealRpOtCI1O-MV9P2MWuLtPOc9zc9XjkYzjfw4WDOzC-FHhr6EEYwEt7CWH5BMg6Td6sgPuYBrhrx7X5oJFJe3L0hUntg/s1600/HL%20GAMING%20OFFICIAL%20LOGO_11zon%20%281%29192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTXMv-V8FJggAAtpYs3DUKbftHtOlp5inaJdQ-udvJpbn5jYkzzRQLVgQPzmM0O8KOsmY9vzq7WfnQ3Jb3sk1SeNAgOJN5XfyJ-ZDY35sMyBpfkyDYw4JgM-w4Ccg7dXhtO9P-LolJyPKOxebzgHtpCr-cd_iMu7LPqal_CJ4d3rPkKtt1VPFyGmI_xXE/s1600/HL%20GAMING%20OFFICIAL%20LOGO_11zon%20%281%29512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+   {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguV14deU2g9_RDzLuzyRs8uEykRLo5Xzx75vr0WxNBO-ckc_50YZWwpGZMwyjNmsOWWJlOHCJkdqxycM7xTg_YyAKisdEB_ncvT2_Z89JkYPH_MXVnoyKDhvf8JqvF_PsmLra_0Pdnn647EsTSPbfEzuFu_vowlU_ux7z1fHuPsXdfJYuQvmrLA20R028/s1332/1719558129951.jpg",
+      "sizes": "720x1332",
+      "type": "image/jpeg",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOXaZtwBJg5aAGyZ4SyWSuyQFC2o7KLDqofjlMqlzutljtjxF4zR74saU4twcOr0DLHEiLWPWWiqCjPfOhOJEn18IxOfyhyqxb3tJ1oXot73TQ_n3kLYgPLIOYBwFIroHw3KwGlRDr1fDJbbYzBnO0HwIpMKfiPnw_XyYrRBHmdYjlDUDiD6uQKV84FZo/s1332/1719558129396.jpg",
+      "sizes": "720x1332",
+      "type": "image/jpeg",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZJ_KJ8Dv4HhYvzC-dahzBA5hMq5hCS0j0_FoiLSeC2XdZJzGRAer90gol9FpvAMhZuSvgI65kVmGqQGHngIkh5UeQ64zZkz16tqdtg7n2QuSDinxH8ypC6lH_iDcNoJG-ANpy4TUTbjwIJoqYPo-MvdBX-GF02fPi_emGXL1y0a-etG2h7byVkDEgLEE/s1332/1719558129521.jpg",
+      "sizes": "720x1332",
+      "type": "image/jpeg",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtN0ob_X0Mx29Bs_WlQO1rjLa1djwezaIExf5BGFr6JHBhKnu7htn2jptn5i9y9OWeGsJR915BqmBfIN_n8PPWa0VTDuLRuUQka_hRUPcwSpUKeOiy0Mvn-A-6o34XMxpDq9IyAC1sgLZdS0yBCEXSa4USqsOmbNtwR_WQECY6fNquL30ZQPkRy32UOvE/s1332/1719558129831.jpg",
+      "sizes": "720x1332",
+      "type": "image/jpeg",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_qnjIQmQbcDv9jjyGft1ue9Z69lGIgAbiZTeDRLrDkZFc_iyb1p67KCRqzkx0O74dclGtiTsXcLlIwaD79_UkUrfq0WEg1jvlFjD61q9yc9MZUjc78R2dxlEgrn48Lu-_afKYfMJ3e-bNaKTF4vK0NcLPQo65lOwuOZbPgt8yqBAq0LX76clFJjbERo4/s1332/1719558129707.jpg",
+      "sizes": "720x1332",
+      "type": "image/jpeg",
+      "form_factor": "wide"
+    }
+  ],
+    "shortcuts": [
+      {
+      "name": "Stylish Names",
+      "short_name": "Nicknames",
+      "url": "https://www.hlgamingofficial.com/search/label/freefirenicknames",
+      "icons": [
+        {
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgOyBRChvoHr8mfkpoLrzST2vYuKNqhXH-hg&s",
+          "sizes": "225x225",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "News & Updates",
+      "short_name": "News",
+      "url": "https://www.hlgamingofficial.com/search/label/Mobile%20Games",
+      "icons": [
+        {
+          "src": "https://cdn-icons-png.freepik.com/256/10290/10290596.png",
+          "sizes": "256x256",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Profile",
+      "short_name": "Profile",
+      "url": "https://www.hlgamingofficial.com/p/profile.html",
+      "icons": [
+        {
+          "src": "https://cdn-icons-png.freepik.com/256/145/145849.png",
+          "sizes": "256x256",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Play Games Online",
+      "short_name": "Online Games",
+      "url": "https://www.hlgamingofficial.com/p/top-games-for-mobile-and-pc.html",
+      "icons": [
+        {
+          "src": "https://cdn-icons-png.freepik.com/256/1069/1069078.png",
+          "sizes": "256x256",
+          "type": "image/png"
+        }
+      ]
+    }
+   
+  ],
+  "permissions": ["geolocation", "notifications", "push"],
+  "features": {
+    "push_notifications": true,
+    "offline_support": true
+  }
+}
